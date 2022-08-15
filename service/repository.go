@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/akbarshoh/microOLX/protos/userproto"
+	"github.com/akbarshoh/microOLX/proto/userproto"
 )
 
 type Repository interface {

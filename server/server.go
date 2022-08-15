@@ -2,7 +2,7 @@ package server
 
 import (
 	"context"
-	proto2 "github.com/akbarshoh/microOLX/protos/userproto"
+	proto2 "github.com/akbarshoh/microOLX/proto/userproto"
 	"github.com/akbarshoh/microOLX/service"
 	_ "google.golang.org/grpc/codes"
 	_ "google.golang.org/grpc/status"

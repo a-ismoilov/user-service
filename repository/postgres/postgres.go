@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"errors"
 	"fmt"
-	"github.com/akbarshoh/microOLX/protos/userproto"
+	"github.com/akbarshoh/microOLX/proto/userproto"
 	"log"
 	"time"
 )
